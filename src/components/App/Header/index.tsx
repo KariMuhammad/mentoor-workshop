@@ -2,7 +2,7 @@ import avatar from "../../../assets/avatar2.svg";
 
 function AppHeader() {
   return (
-    <div className="flex justify-between items-center">
+    <div className="my-5 flex justify-between items-center">
       <h1 className="text-3xl font-bold">Todo Apps</h1>
       <div className="w-16 h-16 grid place-content-center transition-all hover:bg-slate-600 rounded-full">
         <img
